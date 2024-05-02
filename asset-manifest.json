@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Samouil16/Portfolio_JSM_Clone/static/css/main.a6b3d252.css",
+    "main.js": "/Samouil16/Portfolio_JSM_Clone/static/js/main.1c56d147.js",
+    "static/js/796.90bc81dc.chunk.js": "/Samouil16/Portfolio_JSM_Clone/static/js/796.90bc81dc.chunk.js",
+    "static/js/165.d1972f9a.chunk.js": "/Samouil16/Portfolio_JSM_Clone/static/js/165.d1972f9a.chunk.js",
+    "static/media/about04.png": "/Samouil16/Portfolio_JSM_Clone/static/media/about04.fa7b3a72ed32b0e25bfb.png",
+    "static/media/about02.png": "/Samouil16/Portfolio_JSM_Clone/static/media/about02.7a3df03410ee756268ec.png",
+    "static/media/about01.png": "/Samouil16/Portfolio_JSM_Clone/static/media/about01.080509de05322b7aafda.png",
+    "static/media/bgIMG.png": "/Samouil16/Portfolio_JSM_Clone/static/media/bgIMG.c39101e520e2997fc6d4.png",
+    "static/media/bgWhite.png": "/Samouil16/Portfolio_JSM_Clone/static/media/bgWhite.79658cadae50b3b16ee5.png",
+    "static/media/profile.png": "/Samouil16/Portfolio_JSM_Clone/static/media/profile.ee489764521abe34026b.png",
+    "static/media/about03.png": "/Samouil16/Portfolio_JSM_Clone/static/media/about03.c26c2547bb1a423cf283.png",
+    "static/media/spotify.png": "/Samouil16/Portfolio_JSM_Clone/static/media/spotify.2b5e9be1eb1ab501e7cd.png",
+    "static/media/nb.png": "/Samouil16/Portfolio_JSM_Clone/static/media/nb.98f3253e32cc67a4cb5e.png",
+    "static/media/asus.png": "/Samouil16/Portfolio_JSM_Clone/static/media/asus.514bc34955008a92e09f.png",
+    "static/media/adidas.png": "/Samouil16/Portfolio_JSM_Clone/static/media/adidas.83df8153294f9137d308.png",
+    "static/media/bolt.png": "/Samouil16/Portfolio_JSM_Clone/static/media/bolt.64e7d9d30ece478ef3a0.png",
+    "static/media/redux.png": "/Samouil16/Portfolio_JSM_Clone/static/media/redux.c9be37e0fece29c624b0.png",
+    "static/media/sass.png": "/Samouil16/Portfolio_JSM_Clone/static/media/sass.36e863bfbcb25c109d00.png",
+    "static/media/node.png": "/Samouil16/Portfolio_JSM_Clone/static/media/node.8683d89cf78ffae3d1f7.png",
+    "static/media/cpp.png": "/Samouil16/Portfolio_JSM_Clone/static/media/cpp.9002a804bbfa0354d0b8.png",
+    "static/media/graphql.png": "/Samouil16/Portfolio_JSM_Clone/static/media/graphql.0372057049181c5de51a.png",
+    "static/media/amazon.png": "/Samouil16/Portfolio_JSM_Clone/static/media/amazon.0a8be1f53138b5c52456.png",
+    "static/media/mobile.png": "/Samouil16/Portfolio_JSM_Clone/static/media/mobile.145d9ce0157a56f8fcd8.png",
+    "static/media/email.png": "/Samouil16/Portfolio_JSM_Clone/static/media/email.37b9e890eea501421fbf.png",
+    "static/media/figma.png": "/Samouil16/Portfolio_JSM_Clone/static/media/figma.152e55329b6f1915967e.png",
+    "static/media/css.png": "/Samouil16/Portfolio_JSM_Clone/static/media/css.5721a3928fe43de6baf8.png",
+    "static/media/git.png": "/Samouil16/Portfolio_JSM_Clone/static/media/git.a54d3fa44e02f2f61e69.png",
+    "static/media/skype.png": "/Samouil16/Portfolio_JSM_Clone/static/media/skype.c8d7ee175da5b4c8a8ab.png",
+    "index.html": "/Samouil16/Portfolio_JSM_Clone/index.html",
+    "static/media/circle.svg": "/Samouil16/Portfolio_JSM_Clone/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
+    "main.a6b3d252.css.map": "/Samouil16/Portfolio_JSM_Clone/static/css/main.a6b3d252.css.map",
+    "main.1c56d147.js.map": "/Samouil16/Portfolio_JSM_Clone/static/js/main.1c56d147.js.map",
+    "796.90bc81dc.chunk.js.map": "/Samouil16/Portfolio_JSM_Clone/static/js/796.90bc81dc.chunk.js.map",
+    "165.d1972f9a.chunk.js.map": "/Samouil16/Portfolio_JSM_Clone/static/js/165.d1972f9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6b3d252.css",
+    "static/js/main.1c56d147.js"
+  ]
+}
