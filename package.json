@@ -1,7 +1,7 @@
 {
   "name": "frontend_react",
   "version": "0.1.0",
-  "homepage": "https://github.com/Samouil16/Portfolio_JSM_Clone",
+  "homepage": "/Portfolio_JSM_Clone",
   "private": true,
   "dependencies": {
     "@sanity/client": "^6.15.20",
